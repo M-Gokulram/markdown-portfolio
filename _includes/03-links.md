@@ -1,2 +1,2 @@
-https://github.com/M-Gokulram 
-"Github Profile Link"
+[Github link] https://github.com/M-Gokulram 
+
